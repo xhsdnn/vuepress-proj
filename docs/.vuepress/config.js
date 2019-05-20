@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/', // 默认
+    base: '/vuepress-proj/', // 默认
     title: '诗词鉴赏',
     description: '诗词鉴赏',
     head: [

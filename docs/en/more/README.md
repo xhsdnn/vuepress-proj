@@ -23,6 +23,6 @@ function clearRepeat(str) {
 
 [Doing good deeds without asking for reward](https://github.com/xhsdnn)
 
-![mountain](/images/mountain.jpeg)
+![mountain](../../.vuepress/public/images/mountain.jpeg)
 
 > Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam perferendis natus vitae explicabo, fugiat quod odio! Laudantium illum eaque reiciendis beatae debitis delectus omnis molestiae voluptate, asperiores in non accusantium.
