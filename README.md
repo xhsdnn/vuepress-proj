@@ -7,6 +7,8 @@ git clone https://github.com/xhsdnn/vuepress-proj.git
 
 cd vuepress-proj
 
+npm install
+
 npm run dev
 ```
 
